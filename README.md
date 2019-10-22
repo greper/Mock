@@ -11,6 +11,8 @@
 Mock.js is a simulation data generator to help the front-end to develop and prototype separate from the back-end progress and reduce some monotony particularly while writing automated tests.
 
 The official site: <http://mockjs.com>
+# 关于本fork
+修复了在上传文件时，xx.upload.addEventListener is not a function 的问题
 
 ## Features
 
